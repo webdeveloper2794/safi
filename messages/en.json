@@ -1,0 +1,86 @@
+{
+  "Navbar": {
+    "menu1": "Home",
+    "menu2": "About Us",
+    "menu3": "Services",
+    "menu4": "Our Branches",
+    "menu5": "Contact",
+    "submenu1": "Manufacturing of PDR Equipment",
+    "submenu2": "Sale of PDR Equipment",
+    "submenu3": "Service",
+    "submenu4": "Safi Academy Training",
+    "other-submenu1": "Head Office, İkitelli Güngören",
+    "other-submenu2": "Branch 2, Dolapdere",
+    "other-submenu3": "Branch 3, Auto Center",
+    "other-submenu4": "Branch 4, Düzce Center"
+  },
+  "Footer": {
+    "contracts": "Contracts",
+    "about-us": "About Us",
+    "agreement": "Distance Sales Agreement",
+    "privacy": "Privacy and Security",
+    "terms": "Terms of Use",
+    "customer": "Customer Service",
+    "contact": "Contact",
+    "map": "Site Map",
+    "brand": "Brands",
+    "contact-info": "CONTACT INFORMATION",
+    "address": "Ikitelli OSB Mah. Bagcilar Gungoren Industrial Complex",
+    "address2": "Block 10 No: 51-53 Basaksehir / Istanbul"
+  },
+  "Main": {
+    "title1": "Paintless,",
+    "title2": " Dent Repair",
+    "title3": "Wholesale",
+    "subtitle": "Paintless dent repair and EQUIPMENT PRODUCTION"
+  },
+  "Cards": {
+    "title1": "PDR Lighting",
+    "description1": "Paintless Dent Repair Lighting Equipment",
+    "button": "View",
+    "title2": "PDR Bars",
+    "description2": "Paintless Dent Repair Bars",
+    "title3": "PDR Services",
+    "description3": "Repair Operations in Our Services with Our Own Equipment",
+    "title4": "Free Training",
+    "description4": "Free training opportunity for customers who purchase our products"
+  },
+  "Wholesale": {
+    "title": "Wholesale",
+    "subtitle": "PDR EQUIPMENT PRODUCTION SINCE 2017",
+    "text": "Safi Group has been manufacturing and selling PDR equipment since 2017. Safi Group, which responds to domestic and international demands with high production volume, also uses its own manufactured equipment in the services it provides to end users. Whether you are a professional or semi-professional, our products appeal to everyone interested in this field."
+  },
+  
+    "Video": {
+      "title": "Our promotional video is online",
+      "text": "As Safi Group, with our competent, experienced management team and more than 50 professional craftsmen in the field,",
+      "text-last": "we provide service at our branches above.",
+      "location1": "Güngören Bağcılar industrial complex",
+      "location2": "Düzce industrial complex",
+      "location3": "Dolapdere industrial complex",
+      "location4": "İstoç Auto Center"
+    },
+    "Cargo": {
+      "title": "INTERNATIONAL CARGO",
+      "subtitle": "SENDING TO ALL OVER THE WORLD",
+      "text": "Safi Group sends its products both domestically and internationally. It provides shipment by air, land, or sea according to the customer's preference."
+    },
+    "Produce": {
+      "title": "High Production Capacity",
+      "subtitle": "450 M2 PRODUCTION FACILITY",
+      "text": "Safi Group manufactures PDR equipment in its 450 m2 production facility with an advanced machinery lineup. In this production facility, it produces all PDR-related products such as large, regular, flat, and curved bars, PDR lighting products, workbenches, and dents of different sizes."
+    },
+    "Contact": {
+      "title": "CONTACT",
+      "subtitle": "You can contact us at the following numbers for wholesale inquiries or leave your information for us to get back to you.",
+      "fname": "Your Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Your Message",
+      "privacy": "Privacy and Security",
+      "policy": "I have read and accept the",
+      "submit": "Submit"
+    }
+  
+  
+}

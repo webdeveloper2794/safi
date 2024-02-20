@@ -1,0 +1,85 @@
+{
+  "Navbar": {
+    "menu1": "Anasayfa",
+    "menu2": "Hakkımızda",
+    "menu3": "Hizmetler",
+    "menu4": "Şubelerimiz",
+    "menu5": "İletişim",
+    "submenu1": "PDR Ekipmanlarının Üretimi",
+    "submenu2": "PDR Ekipmanlarının Satışı",
+    "submenu3": "Servis Hizmeti",
+    "submenu4": "Safi Akademi Eğitimi",
+    "other-submenu1": "Merkez Şube İkitelli Güngören",
+    "other-submenu2": "Şube 2 Dolapdere",
+    "other-submenu3": "Şube 3 Oto Center",
+    "other-submenu4": "Şube 4 Düzce Merkez"    
+  },
+  "Footer": {
+  "contracts": "SÖZLEŞMELER",
+  "about-us": "Hakkımızda",
+  "agreement": "Mesafeli Satış Sözleşmesi",
+  "privacy": "Gizlilik ve Güvenlik",
+  "terms": "Kullanım Koşulları",
+  "customer": "MÜŞTERİ SERVİSİ",
+  "contact": "İletişim",
+  "map": "Site Haritası",
+  "brand": "Markalar",
+  "contact-info": "İLETİŞİM BİLGİLERİMİZ",
+  "address": "İkitelli OSB Mah. Bağcılar Güngören Sanayi Sitesi",
+  "address2": "10.Blok No:51-53 Başakşehir / İstanblul "
+  },
+  "Main": {
+    "title1": "Boyasız,",
+    "title2": " Göçük Düzeltme",
+    "title3": "Toptan Satış",
+    "subtitle": " Boyasız göçük düzeltme ve EKİPMAN ÜRETİMİ"
+  },
+  "Cards": {
+    "title1": "PDR Aydınlatma",
+    "description1": " Boyasız Göçük Düzeltme Aydınlatma Ekipmanları",
+    "button": "İncele",
+    "title2": "PDR Çubukları",
+    "description2": " Boyasız Göçük Düzeltme Çubukları",
+    "title3": "PDR Hizmetleri",
+    "description3": "Servislerimizde Kendi Ekipmanlarımızla Tamir İşlemleri",
+    "title4": "Ücretsiz Eğitim",
+    "description4": "Ürünlerimizi satın alan müşterilerimize ücretsiz eğitim imkanı"
+    
+  },
+  "Wholesale": {
+    "title": "Toptan Satış",
+    "subtitle": "2017'DEN BERİ PDR EKİPMANLARI ÜRETİMİ",
+    "text": "Safi Grup 2017'den bugüne PDR Ekipmanları üretimi ve satışı gerçekleştirmektedir. Yüksek üretim hacmi ile yurtiçi ve yurtdışı taleplere cevap veren Safi Grup; son kullanıcıya hitap ettiği servislerinde de kendi ürettiği ekipmanları kullanmaktadır. Profesyonel ya da yarı-profesyonel olun farketmez. Ürünlerimiz bu alana ilgi duyan herkese hitap etmektedir."
+  },
+  "Video": {
+    "title": "Tanıtım videomuz yayında",    
+    "text": "Safi grup olarak, meslekte yetkin, birikim ve tecrübe sahibi yönetim kadromuz, alanında profesyonel 50’den fazla ustalarımız ile",
+    "text-last": "şubelerimizde servis hizmeti vermekteyiz.",
+    "location1": "Güngören Bağcılar sanayi sitesi",
+    "location2": "Beylikdüzü Autopia",
+    "location3": "Düzce sanayi sitesi",
+    "location4": "Dolapdere sanayi sitesi",
+    "location5": "İstoç Oto Center"
+  },
+  "Cargo": {
+    "title": "ULUSLARARASI KARGO",    
+    "subtitle": "DÜNYA'NIN DÖRT BİR YANINA GÖNDERİM",
+    "text": "Safi Grup yurtiçine olduğu gibi yurtdışına da ürettiği ürünlerin gönderimi yapmaktadır. Hava, kara ya da deniz yoluyla müşterinin istediği şekilde gönderim yapmaktadır."   
+  },
+  "Produce": {
+    "title": "Yüksek Üretim Hacmi",    
+    "subtitle": "450 M2 ÜRETİM TESİSİ",
+    "text": "Safi Grup 450 m2'lik üretim tesisinde gelişmiş makine parkuruyla PDR ekipmanları üretimi gerçekleştirir. Bu üretim tesisinde; ​büyük, normal, yassı ve kıvrımlı çubuklar, PDR aydınlatma ürünleri, takım sehpası, farklı ebatlarda dentler gibi pdr ile alakalı tüm ürünleri üretmektedir."   
+  },
+  "Contact": {
+    "title": "İLETİŞİM",    
+    "subtitle": "Toptan talepleriniz için aşağıdaki numaralardan bizimle iletişime geçebilir ya da bilgilerinizi bize bırakıp size dönmemizi sağlayabilirsiniz.",
+    "fname": "Adınız" ,  
+    "email": "E-Posta" ,  
+    "subject": "Konu" ,  
+    "message": "Mesajınız" ,  
+    "privacy": "Gizlilik ve Güvenlik" ,  
+    "policy": "'ni okudum ve kabul ediyorum." ,  
+    "submit": "Gönder"   
+  }
+}
