@@ -15,7 +15,6 @@ export const metadata = {
   title: "Safi Grup Wholesale",
   description: "Building Your Digital Universe",
 };
-
 export default function RootLayout({ children, params:{locale} }) {
   const messages = useMessages();
   return (
