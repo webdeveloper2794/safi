@@ -57,7 +57,7 @@ export default function Navbar() {
   const t = useTranslations("Navbar");
   const navigation = [
     { name: t("menu1"), href: "https://www.safigrup.com/" },
-    { name: t("menu2"), href: "/service" },
+    { name: t("menu2"), href: "https://www.safigrup.com/hakkimizda" },
     // { name: t("menu3"), href: "/about" },
     // { name: t("menu4"), href: "/projects" },
     // { name: t("menu5"), href: "/courses" },
