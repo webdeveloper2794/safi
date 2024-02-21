@@ -581,6 +581,16 @@ export default function Navbar() {
                         className="p-2 w-10"
                       />
                     </Link>                    
+                    <Link
+                      href="https://wa.me/+905010274949"
+                      className="ring-1 rounded-full mx-3  ring-slate-100 hover:ring-purple-950 shadow-2xl shadow-violet-950 transition-all"
+                    >
+                      <img
+                        src="/whatsapp.png"
+                        alt=""
+                        className="p-2 w-10"
+                      />
+                    </Link>                    
                   </div>
                 </div>
               </div>

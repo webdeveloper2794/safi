@@ -34,6 +34,7 @@ export default function Footer() {
     { name: "Service", href: "https://www.facebook.com/safiotomotiv?eid=ARDJecOxNuSVzw2KdYepQXeq9-vnqaN7F1yt4a6CHiQuy-P6tP2az1QjN9tksQFbvYpm2dMjpaNg9TCC",src: "/facebook.png" },
     { name: "Service", href: "https://www.youtube.com/@safigrupotomotiv",src: "/youtube.png" },
     { name: "Service", href: "https://www.instagram.com/safiotomotiv/",src: "/instagram.png" },  
+    { name: "Service", href: "https://wa.me/+905010274949",src: "/whatsapp.png" },  
   ];
   return (
     <>
