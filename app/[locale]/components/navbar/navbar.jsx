@@ -448,23 +448,23 @@ export default function Navbar() {
             </div>
             <div className="mt-6 flow-root  ">
               <div className="-my-6 divide-y divide-gray-500/10">
-                <div className="space-y-2 py-6">
+                <div className="space-y-2 py-4">
                   {navigation.map((item, index) => (
                     <Link
                       key={index}
                       href={item.href}
-                      className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-purple-900 hover:text-black "
+                      className="-mx-3 block rounded-lg px-3 text-base font-semibold leading-7 text-purple-900 hover:text-black "
                     >
                       {item.name}
                     </Link>
                   ))}
                   
                 </div>
-                <Popover.Group className="hidden lg:flex lg:gap-x-12">
+                <Popover.Group className="lg:flex lg:gap-x-12">
           <Popover className="relative">
-            <Popover.Button className="flex items-center gap-x-1 text-sm font-semibold leading-6 text-gray-900">
+            <Popover.Button className="flex items-center gap-x-1 text-base font-semibold leading-7 text-purple-900 hover:text-black">
             {t("menu3")}
-              <ChevronDownIcon className="h-5 w-5 flex-none text-gray-400" aria-hidden="true" />
+              <ChevronDownIcon className="h-5 w-5 flex-none text-purple-900" aria-hidden="true" />
             </Popover.Button>
 
             <Transition
@@ -500,11 +500,11 @@ export default function Navbar() {
           </Popover>
 
         </Popover.Group>
-            <Popover.Group className="hidden lg:flex lg:gap-x-12">
+            <Popover.Group className="lg:flex lg:gap-x-12 py-3">
           <Popover className="relative">
-            <Popover.Button className="flex items-center gap-x-1 text-sm font-semibold leading-6 text-gray-900">
+            <Popover.Button className="flex items-center gap-x-1 text-base font-semibold leading-7 text-purple-900 hover:text-black">
             {t("menu4")}
-              <ChevronDownIcon className="h-5 w-5 flex-none text-gray-400" aria-hidden="true" />
+              <ChevronDownIcon className="h-5 w-5 flex-none text-purple-900" aria-hidden="true" />
             </Popover.Button>
 
             <Transition
@@ -544,7 +544,7 @@ export default function Navbar() {
         <Link
                
                 href="https://www.safigrup.com/index.php?route=information/contact"
-                className="text-sm font-semibold leading-6 text-gray-900 hover:text-indigo-700  transition"
+                className="text-base font-semibold leading-7 text-purple-900 hover:text-black"
               >
                 {t("menu5")}
               </Link>
@@ -552,41 +552,35 @@ export default function Navbar() {
                   <div className="w-full flex justify-center">
                     {/* social links  */}
                     <Link
-                      href="https://www.linkedin.com/in/boburbek-shahobiddin-0b9401227/"
+                      href="https://www.facebook.com/safiotomotiv?eid=ARDJecOxNuSVzw2KdYepQXeq9-vnqaN7F1yt4a6CHiQuy-P6tP2az1QjN9tksQFbvYpm2dMjpaNg9TCC"
                       className="ring-1 rounded-full mx-3  ring-slate-100 hover:ring-purple-950 shadow-2xl shadow-violet-950 transition-all"
                     >
                       <img
-                        src="/about-linkedin.svg"
+                        src="/facebook.png"
                         alt=""
                         className="p-2 w-10"
                       />
                     </Link>
                     <Link
-                      href="https://t.me/abdurrohman_dev"
+                      href="https://www.youtube.com/@safigrupotomotiv"
                       className="ring-1 rounded-full mx-3  ring-slate-100 hover:ring-purple-950 shadow-2xl shadow-violet-950 transition-all"
                     >
                       <img
-                        src="/about-telegram.svg"
+                        src="/youtube.png"
                         alt=""
                         className="p-2 w-10"
                       />
                     </Link>
                     <Link
-                      href="https://wa.me/905510063265"
+                      href="https://www.instagram.com/safiotomotiv/"
                       className="ring-1 rounded-full mx-3  ring-slate-100 hover:ring-purple-950 shadow-2xl shadow-violet-950 transition-all"
                     >
                       <img
-                        src="/about-whatsapp.svg"
+                        src="/instagram.png"
                         alt=""
                         className="p-2 w-10"
                       />
-                    </Link>
-                    <Link
-                      href="https://www.instagram.com/abu_ibrohiiym?igsh=MW1reXM2MGJzcmZwaw=="
-                      className="ring-1 rounded-full mx-3  ring-slate-100 hover:ring-purple-950 shadow-2xl shadow-violet-950 transition-all"
-                    >
-                      <img src="/instagram.svg" alt="" className="p-2 w-10" />
-                    </Link>
+                    </Link>                    
                   </div>
                 </div>
               </div>

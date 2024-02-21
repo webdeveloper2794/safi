@@ -2,7 +2,7 @@ import Link from "next/link";
 import { CursorArrowRaysIcon, LinkIcon,AtSymbolIcon, PhoneIcon} from '@heroicons/react/24/outline'
 import { Tooltip, Button } from "@nextui-org/react";
 import { useTranslations, useLocale } from "next-intl";
-
+import {Accordion, AccordionItem} from "@nextui-org/react";
 
 
 export default function Footer() {
